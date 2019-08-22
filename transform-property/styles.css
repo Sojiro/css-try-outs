@@ -43,3 +43,9 @@ body {
   color: #393e46;
   font-size: 30px;
 }
+
+a {
+  text-decoration: none;
+  top: 30%;
+  position: absolute;
+}
