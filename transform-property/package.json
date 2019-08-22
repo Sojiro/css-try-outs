@@ -1,0 +1,27 @@
+{
+  "name": "transform-property",
+  "version": "1.0.0",
+  "description": "Transform property try outs and new styles encountered in the web.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sojiro/css-try-outs.git"
+  },
+  "keywords": [
+    "CSS",
+    "transform"
+  ],
+  "author": "Sojiro De Tenken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sojiro/css-try-outs/issues"
+  },
+  "homepage": "https://github.com/Sojiro/css-try-outs#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.1",
+    "http-server": "^0.11.1"
+  }
+}
