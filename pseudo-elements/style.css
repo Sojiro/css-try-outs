@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+article {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+section {
+  width: 50%;
+  margin: 0 auto;
+  font-size: 24px;
+  line-height: 2;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+  font-size: 12px;
+}
+
+input {
+  width: 100%;
+  margin: 5px 0;
+}
+
+dialog {
+  border: none;
+  box-shadow: 5px 5px 10px 0px grey;
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid transparent;
+  box-shadow: 5px 5px 10px 0px grey;
+  background-color: aquamarine;
+  width: 100%;
+  border-radius: 4px;
+}
+form {
+  margin: 0 auto;
+}
+::selection {
+  background-color: yellowgreen;
+  color: blue;
+}
+
+::placeholder {
+  padding: 0 5px;
+  color: blue;
+  opacity: 0.6;
+  font-family: monospace;
+}
+
+::backdrop {
+  background-image: url(https://source.unsplash.com/random);
+  opacity: 0.5;
+}
