@@ -22,6 +22,6 @@
   "homepage": "https://github.com/Sojiro/css-try-outs#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.10.1",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
